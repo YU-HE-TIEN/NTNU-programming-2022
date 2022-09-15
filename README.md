@@ -20,7 +20,7 @@
 
 ## 📘課程筆記
 - week 01(9/8)
-  - 練習一
+  - [練習一](https://github.com/YU-HE-TIEN/PL/blob/main/week02_practice01.ipynb)
 - week 02(9/15)
 - week 03(9/22)
 - week 04(9/29)
