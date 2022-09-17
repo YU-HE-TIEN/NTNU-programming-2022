@@ -20,6 +20,13 @@
 
 ## 📘課程筆記
 - week 01(9/8)
+  - int型態：整數 / float型態：小數 ／ str型態：'文字'or"文字"
+  - bool：布林值（true/false）
+  - "="：賦值／"=="：相等
+  - 變數：具有名稱和值的記憶體位置
+    - 1.使用英文字母命名
+    - 2.不能是保留字、內建函數或有空白
+    - 3.英文大小寫不同是不同變數
   - [練習一](https://github.com/YU-HE-TIEN/PL/blob/main/week02_practice01.ipynb)
 - week 02(9/15)
 - week 03(9/22)
