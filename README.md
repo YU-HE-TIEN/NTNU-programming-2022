@@ -14,7 +14,7 @@
 
 ## 🙋‍♀️關於我
 #### 姓名：田雨禾
-![image](https://github.com/YU-HE-TIEN/PL/blob/main/111656.jpg?raw=true)
+![image](https://github.com/YU-HE-TIEN/PL/blob/main/self-intro.jpg?raw=true)
 >系級：地理系三年級</br>
 >我是一位熱愛地理愛爬山的女孩，也喜歡在山上唱歌，歡迎找我一起練程式🥲，也歡迎找我一起爬山!
 
