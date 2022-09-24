@@ -27,7 +27,7 @@
     - 1.使用英文字母命名
     - 2.不能是保留字、內建函數或有空白
     - 3.英文大小寫不同是不同變數
-  - [練習一](https://github.com/YU-HE-TIEN/PL/blob/main/week02_practice01.ipynb)
+  - [練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week02_practice01.ipynb)
 - week 02(9/15)
 - week 03(9/22)
 - week 04(9/29)
