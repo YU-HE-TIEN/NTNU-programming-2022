@@ -32,8 +32,12 @@
   - pd.read.csv -> 讀取csv方法-> 1. 絕對路徑 2. 相對路徑
   - []：數列：有順序
   - {}：集合：沒順序
-  - 差集：set1-set2 - 聯集：set1+set2 - 兩者交集：Intersection(set1,set2) - 對稱差集：set1.symmetric_difference(set2))
-  - 詳見[作業一](https://github.com/YU-HE-TIEN/PL/blob/main/homework/Week03_homework01.ipynb)
+  - 資料比對
+    - 差集：set1-set2 
+    - 聯集：set1+set2 
+    - 兩者交集：Intersection(set1,set2) 
+    - 對稱差集：set1.symmetric_difference(set2))
+    - 詳見[作業一](https://github.com/YU-HE-TIEN/PL/blob/main/homework/Week03_homework01.ipynb)
 - week 03(9/22)
 - week 04(9/29)
 
