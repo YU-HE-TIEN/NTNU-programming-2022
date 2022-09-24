@@ -28,12 +28,17 @@
     - 2.不能是保留字、內建函數或有空白
     - 3.英文大小寫不同是不同變數
   - [練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week02_practice01.ipynb)
-- week 02(9/15)
+- #### week 02(9/15)
+  - pd.read.csv -> 讀取csv方法-> 1. 絕對路徑 2. 相對路徑
+  - []：數列：有順序
+  - {}：集合：沒順序
+  - 差集：set1-set2 - 聯集：set1+set2 - 兩者交集：Intersection(set1,set2) - 對稱差集：set1.symmetric_difference(set2))
+  - 詳見[作業一](#作業一)
 - week 03(9/22)
 - week 04(9/29)
 
 ## 🖊課程作業
-- [作業一]()
+- [作業一](https://github.com/YU-HE-TIEN/PL/blob/main/homework/Week03_homework01.ipynb)
 - 作業二
 - 作業三
 - 作業四
