@@ -52,12 +52,12 @@
      - 商品型錄
   2. json 資料格式
   - [W4 練習一](http://localhost:8889/notebooks/Documents/GitHub/PL/practice/week04_practice01.ipynb)
-  - [W4 練習二]()
+  - [W4 練習二](http://localhost:8888/notebooks/Documents/GitHub/PL/practice/week04_practice02.ipynb)
 
 ## 📝課程練習
   - [W1 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week02_practice01.ipynb)
   - [W2 練習一](http://localhost:8889/notebooks/Documents/GitHub/PL/practice/week02_practice01.ipynb)
-  - [W4 練習一](http://localhost:8889/notebooks/Documents/GitHub/PL/practice/week04_practice01.ipynb)
+  - [W4 練習一](http://localhost:8889/notebooks/Documents/GitHub/PL/practice/week04_practice01.ipynb) - [W4 練習一](http://localhost:8888/notebooks/Documents/GitHub/PL/practice/week04_practice02.ipynb)
 
 ## 🖊課程作業
 - [作業一](https://github.com/YU-HE-TIEN/PL/blob/main/homework/Week03_homework01.ipynb)
