@@ -27,25 +27,37 @@
     - 1.使用英文字母命名
     - 2.不能是保留字、內建函數或有空白
     - 3.英文大小寫不同是不同變數
-  - [練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week02_practice01.ipynb)
+  - [W1 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week02_practice01.ipynb)
 - #### week 02(9/15)
   - dataframe資料格式
   - pd.read.csv -> 讀取csv方法-> 1. 絕對路徑 2. 相對路徑
   - []：數列：有順序
   - {}：集合：沒順序
-  - 資料比對
-    - 差集：set1-set2 
-    - 聯集：set1+set2 
-    - 兩者交集：Intersection(set1,set2) 
-    - 對稱差集：set1.symmetric_difference(set2))
-    - 詳見[作業一](https://github.com/YU-HE-TIEN/PL/blob/main/homework/Week03_homework01.ipynb)
+  - [W2 練習一](http://localhost:8889/notebooks/Documents/GitHub/PL/practice/week02_practice01.ipynb)
 - #### week 03(9/22)
   1. 一般變數：一個變數只能存一個數
   2. dataframe：CSV或txt檔案格式存資料的方式
   3. list：數列，只能儲存相同資料格式
   4. set：集合，都可以放
-  - [練習二]()
-- week 04(9/29)
+    - 資料比對
+    - 差集：set1-set2 
+    - 聯集：set1+set2 
+    - 兩者交集：Intersection(set1,set2) 
+    - 對稱差集：set1.symmetric_difference(set2))
+    - 詳見[W3 作業一](https://github.com/YU-HE-TIEN/PL/blob/main/homework/Week03_homework01.ipynb)
+- #### week 04(9/29)
+  1. dictionary 巢狀應用：
+     - 觸犯條例人員名單
+     - 修課列表
+     - 商品型錄
+  2. json 資料格式
+  - [W4 練習一](http://localhost:8889/notebooks/Documents/GitHub/PL/practice/week04_practice01.ipynb)
+  - [W4 練習二]()
+
+## 📝課程練習
+  - [W1 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week02_practice01.ipynb)
+  - [W2 練習一](http://localhost:8889/notebooks/Documents/GitHub/PL/practice/week02_practice01.ipynb)
+  - [W4 練習一](http://localhost:8889/notebooks/Documents/GitHub/PL/practice/week04_practice01.ipynb)
 
 ## 🖊課程作業
 - [作業一](https://github.com/YU-HE-TIEN/PL/blob/main/homework/Week03_homework01.ipynb)
