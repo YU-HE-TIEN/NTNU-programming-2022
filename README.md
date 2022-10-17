@@ -27,13 +27,12 @@
     - 1.使用英文字母命名
     - 2.不能是保留字、內建函數或有空白
     - 3.英文大小寫不同是不同變數
-  - [W1 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week02_practice01.ipynb)
 - #### week 02(9/15)
   - dataframe資料格式
   - pd.read.csv -> 讀取csv方法-> 1. 絕對路徑 2. 相對路徑
   - []：數列：有順序
   - {}：集合：沒順序
-  - [W2 練習一](http://localhost:8889/notebooks/Documents/GitHub/PL/practice/week02_practice01.ipynb)
+  - [W2 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week02_practice01.ipynb)
 - #### week 03(9/22)
   1. 一般變數：一個變數只能存一個數
   2. dataframe：CSV或txt檔案格式存資料的方式
@@ -51,8 +50,8 @@
      - 修課列表
      - 商品型錄
   2. json 資料格式
-  - [W4 練習一](http://localhost:8889/notebooks/Documents/GitHub/PL/practice/week04_practice01.ipynb)
-  - [W4 練習二](http://localhost:8888/notebooks/Documents/GitHub/PL/practice/week04_practice02.ipynb)
+  - [W4 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week04_practice01.ipynb)
+  - [W4 練習二](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week04_practice02.ipynb)
 - #### week 05(10/7)：巢狀資料
 - #### week 06(10/13)：資料正則化
     - [找資料字串程式大表格](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
@@ -68,15 +67,14 @@
     - [範例](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C3_Python_%E8%B3%87%E6%96%99%E6%AD%A3%E8%A6%8F%E5%8C%96/python_%E8%B3%87%E6%96%99%E6%AD%A3%E5%89%87%E5%8C%96_code.ipynb)
 
 ## 📝課程練習
-  - [W1 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week02_practice01.ipynb)
-  - [W2 練習一](http://localhost:8889/notebooks/Documents/GitHub/PL/practice/week02_practice01.ipynb)
-  - [W4 練習一](http://localhost:8889/notebooks/Documents/GitHub/PL/practice/week04_practice01.ipynb) 
-  - [W4 練習二](http://localhost:8888/notebooks/Documents/GitHub/PL/practice/week04_practice02.ipynb)
-  - [W6 練習一](http://localhost:8888/notebooks/Documents/GitHub/PL/practice/week06_practice01.ipynb)
+  - [W2 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week02_practice01.ipynb)
+  - [W4 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week04_practice01.ipynb) 
+  - [W4 練習二](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week04_practice02.ipynb)
+  - [W6 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week06_practice01.ipynb)
 
 ## 🖊課程作業
 - [作業一](https://github.com/YU-HE-TIEN/PL/blob/main/homework/Week03_homework01.ipynb)
-- [作業二](http://localhost:8888/notebooks/Documents/GitHub/PL/homework/week05_homework02.ipynb)
+- [作業二](https://github.com/YU-HE-TIEN/PL/blob/main/homework/week05_homework02.ipynb)
 - 作業三
 - 作業四
 - 作業五
