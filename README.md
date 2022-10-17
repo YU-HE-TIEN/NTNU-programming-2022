@@ -53,16 +53,30 @@
   2. json 資料格式
   - [W4 練習一](http://localhost:8889/notebooks/Documents/GitHub/PL/practice/week04_practice01.ipynb)
   - [W4 練習二](http://localhost:8888/notebooks/Documents/GitHub/PL/practice/week04_practice02.ipynb)
+- #### week 05(10/7)：巢狀資料
+- #### week 06(10/13)：資料正則化
+    - [找資料字串程式大表格](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
+    - [練習資料查找字串網頁](https://www.google.com/url?q=https://regexr.com/&sa=D&source=editors&ust=1665624637181435&usg=AOvVaw2OlkT5ZPwv2qGOwedi1gg1)
+    - [編輯json檔:檢查dict結構](https://jsoncrack.com/editor)
+  - regular expression
+    - import re
+      - 尋找配對:re.search('目標字串','資料')
+      - 尋找所有匹配:re.findall('目標字串','資料')
+      - 替換字元:re.sub('原來字串','改變的字串','資料')
+      - 拆開:re.split('預刪除的字串','資料')
+      - 包裝:re.compile(預使用字串)，後結合上述函數
+    - [範例](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C3_Python_%E8%B3%87%E6%96%99%E6%AD%A3%E8%A6%8F%E5%8C%96/python_%E8%B3%87%E6%96%99%E6%AD%A3%E5%89%87%E5%8C%96_code.ipynb)
 
 ## 📝課程練習
   - [W1 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week02_practice01.ipynb)
   - [W2 練習一](http://localhost:8889/notebooks/Documents/GitHub/PL/practice/week02_practice01.ipynb)
   - [W4 練習一](http://localhost:8889/notebooks/Documents/GitHub/PL/practice/week04_practice01.ipynb) 
   - [W4 練習二](http://localhost:8888/notebooks/Documents/GitHub/PL/practice/week04_practice02.ipynb)
+  - [W6 練習一](http://localhost:8888/notebooks/Documents/GitHub/PL/practice/week06_practice01.ipynb)
 
 ## 🖊課程作業
 - [作業一](https://github.com/YU-HE-TIEN/PL/blob/main/homework/Week03_homework01.ipynb)
-- 作業二
+- [作業二](http://localhost:8888/notebooks/Documents/GitHub/PL/homework/week05_homework02.ipynb)
 - 作業三
 - 作業四
 - 作業五
