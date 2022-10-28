@@ -53,6 +53,9 @@
   - [W4 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week04_practice01.ipynb)
   - [W4 練習二](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week04_practice02.ipynb)
 - #### week 05(10/7)：巢狀資料
+  1. 結構化資料－表格：csv/xls...
+  2. 結構化資料－半巢狀結構資料：json/xml/html...
+  3. 非結構化資料－文字資料、圖：pdf/png...
 - #### week 06(10/13)：資料正則化
     - [找資料字串程式大表格](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
     - [練習資料查找字串網頁](https://www.google.com/url?q=https://regexr.com/&sa=D&source=editors&ust=1665624637181435&usg=AOvVaw2OlkT5ZPwv2qGOwedi1gg1)
@@ -65,6 +68,8 @@
       - 拆開:re.split('預刪除的字串','資料')
       - 包裝:re.compile(預使用字串)，後結合上述函數
     - [範例](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C3_Python_%E8%B3%87%E6%96%99%E6%AD%A3%E8%A6%8F%E5%8C%96/python_%E8%B3%87%E6%96%99%E6%AD%A3%E5%89%87%E5%8C%96_code.ipynb)
+- #### week 07(10/20)：網路爬蟲
+
 
 ## 📝課程練習
   - [W2 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week02_practice01.ipynb)
@@ -75,7 +80,7 @@
 ## 🖊課程作業
 - [作業一](https://github.com/YU-HE-TIEN/PL/blob/main/homework/Week03_homework01.ipynb)
 - [作業二](https://github.com/YU-HE-TIEN/PL/blob/main/homework/week05_homework02.ipynb)
-- 作業三
+- [作業三(github地端上船無法顯示附上jupyter編輯頁面)](http://localhost:8888/notebooks/Documents/GitHub/PL/homework/week07_homework03.ipynb)
 - 作業四
 - 作業五
 
