@@ -69,6 +69,10 @@
       - 包裝:re.compile(預使用字串)，後結合上述函數
     - [範例](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C3_Python_%E8%B3%87%E6%96%99%E6%AD%A3%E8%A6%8F%E5%8C%96/python_%E8%B3%87%E6%96%99%E6%AD%A3%E5%89%87%E5%8C%96_code.ipynb)
 - #### week 07(10/20)：網路爬蟲
+     - 讓電腦模擬使用者抓取網站上的資訊
+- #### week 08(10/27)：資料彙整&資料視覺化
+     - [實用的資料視覺化網站:有地圖!!](https://www.google.com/url?q=https://plotly.com/python/&sa=D&source=editors&ust=1667009293913850&usg=AOvVaw1cRoMdl0wPqFmnif6cbLsf)
+
 
 
 ## 📝課程練習
@@ -76,11 +80,13 @@
   - [W4 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week04_practice01.ipynb) 
   - [W4 練習二](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week04_practice02.ipynb)
   - [W6 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week06_practice01.ipynb)
+  - [W7 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week07_practice01.ipynb)
+  - [W8 練習一](https://github.com/YU-HE-TIEN/PL/blob/main/practice/week08_practice01.ipynb)
 
 ## 🖊課程作業
 - [作業一](https://github.com/YU-HE-TIEN/PL/blob/main/homework/Week03_homework01.ipynb)
 - [作業二](https://github.com/YU-HE-TIEN/PL/blob/main/homework/week05_homework02.ipynb)
-- [作業三(github地端上船無法顯示附上jupyter編輯頁面)](http://localhost:8888/notebooks/Documents/GitHub/PL/homework/week07_homework03.ipynb)
+- [作業三](https://github.com/YU-HE-TIEN/PL/blob/main/homework/week07_homework03.ipynb)
 - 作業四
 - 作業五
 
