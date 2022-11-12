@@ -72,6 +72,12 @@
      - 讓電腦模擬使用者抓取網站上的資訊
 - #### week 08(10/27)：資料彙整&資料視覺化
      - [實用的資料視覺化網站:有地圖!!](https://www.google.com/url?q=https://plotly.com/python/&sa=D&source=editors&ust=1667009293913850&usg=AOvVaw1cRoMdl0wPqFmnif6cbLsf)
+- #### week 09(11/03)：文字探勘
+     - [文字探勘](https://www.youtube.com/watch?v=HGPPoaBxyb0)
+- #### week 10(11/10)：鱸魚演講
+     - what->how->why
+     - 冒險
+     - 追求生命體驗
 
 
 
@@ -87,7 +93,7 @@
 - [作業一](https://github.com/YU-HE-TIEN/PL/blob/main/homework/Week03_homework01.ipynb)
 - [作業二](https://github.com/YU-HE-TIEN/PL/blob/main/homework/week05_homework02.ipynb)
 - [作業三](https://github.com/YU-HE-TIEN/PL/blob/main/homework/week07_homework03.ipynb)
-- 作業四
+- [作業四]()
 - 作業五
 
 ## 💻相關專題
