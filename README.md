@@ -94,7 +94,7 @@
 - [作業二](https://github.com/YU-HE-TIEN/PL/blob/main/homework/week05_homework02.ipynb)
 - [作業三](https://github.com/YU-HE-TIEN/PL/blob/main/homework/week07_homework03.ipynb)
 - [作業四](https://medium.com/@just_copper_cattle_786/利用python文字探勘功能分析全台景點個數及特定縣市景點關鍵詞-d2e254c39b0e)
-- 作業五
+- [作業五](https://medium.com/@just_copper_cattle_786/利用python文本共現網路分析展現花蓮縣景點熱點圖-8d9a673dcf41)
 
 ## 💻相關專題
 
